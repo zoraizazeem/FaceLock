@@ -9,8 +9,8 @@ You will first have to form a key.key (will automatically store locally in the s
 In the example uploaded, a picture of my face is provided and hence the name that is selected is "Zoraiz". Just add a .jpeg of yourself and add your name in the code.
 
 The facerecog.py file imports the sendsms.py file. Here a message is sent to your mobile device saying that you were recently signed in, as a notification. Using a library called twilio. https://www.twilio.com/docs/libraries/python
-Buy a number (reletively cheap) and add your actual mobile number and the program is ready to use.
+Buy a number (relatively cheap) and add your actual mobile number and the program is ready to use.
 
-NOTE: This is not a complete secure and was made to be novel security app. I have seen the program misidentify myself from other users (i.e. relatives). So encrypt and decrypt files at your own risk.
+NOTE: This is not completely secure and was made to be novel security app. So encrypt and decrypt files at your own risk.
 
 I will add machine learning and some extra features in some way inorder to increase accuracy at some point so keep an eye out on this repository.
